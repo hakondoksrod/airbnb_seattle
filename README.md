@@ -1,7 +1,7 @@
 # airbnb_seattle
 Installation:\
 This project is created with Python 3.6\
-The following libraries are necessary for running the code in the notebooks:\
+The following libraries are necessary for running the code in the notebooks:
 - pandas
 - numpy
 - matplotlib
@@ -10,10 +10,10 @@ The following libraries are necessary for running the code in the notebooks:\
 
 Files in the repository:\
 README.md\
-Data files: (Data publicly available here: https://www.kaggle.com/airbnb/seattle)\
+Data files: (Data publicly available here: https://www.kaggle.com/airbnb/seattle)
 - listings.zip
 - reviews.zip
-Notebooks:\
+Notebooks:
 - airbnb_neighborhood.ipynb
   - Exploration and analysis of prices and variation of prices between different neighborhoods of Seattle
 - airbnb_prediction.ipynb
