@@ -1,4 +1,7 @@
 # airbnb_seattle
+Link to project blog post:\
+https://hakon-doksrod.medium.com/analysis-and-prediction-of-airbnb-prices-in-seattle-12115d639887
+
 Installation:\
 This project is created with Python 3.6\
 The following libraries are necessary for running the code in the notebooks:
